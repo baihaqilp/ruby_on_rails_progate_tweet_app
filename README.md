@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # README
 
 This README would normally document whatever steps are necessary to get the
@@ -22,3 +23,7 @@ Things you may want to cover:
 * Deployment instructions
 
 * ...
+=======
+# ruby_on_rails_progate_tweet_app
+Ruby on Rails App, learn Form Progate
+>>>>>>> 0e9759358e578e4b7b63940017e1e9da2b42ee11
